@@ -27,7 +27,7 @@ A fast, minimal testimonial collection app for SaaS founders and freelancers
 
 ---
 
-### 🔹 Medifast – Clinic Booking & Medical CRM
+### 🔹 Medifast – Products Booking & Medical CRM
 Enterprise-grade healthcare platform  
 - Patient communicating with bots and doctors , and role-based dashboards  Cart management and order managemnt  
 - Build User Panel In React.js
